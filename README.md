@@ -1,2 +1,2 @@
 # wordsmith
-Resources for research writing.
+Resources for academic research writing.
